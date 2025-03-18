@@ -1,0 +1,4 @@
+There are 3 ways to add CSS in HTML
+1. Inline ------------ <tag style="CSS" />
+2. Internal ---------- <style>CSS</style>
+3. External ---------- <link href="style.css"/>
