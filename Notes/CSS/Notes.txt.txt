@@ -2,3 +2,12 @@ There are 3 ways to add CSS in HTML
 1. Inline ------------ <tag style="CSS" />
 2. Internal ---------- <style>CSS</style>
 3. External ---------- <link href="style.css"/>
+
+Font Size
+1. PX stands for Pixel, 1px is 1/96th inch = ex: 1px
+2. PT stands for Point, 1pt is 1/72nd inch = ex: 1pt 
+3. EM Pronounced as M, is 100% of its parent size = ex: 1em
+4. REM -> R stands for Root,is 100% of its root(HTML) size = ex: 1rem
+
+Reference Example for Font Size
+*{font-size: 1rem}
